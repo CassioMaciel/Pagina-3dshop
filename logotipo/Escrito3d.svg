@@ -10,15 +10,17 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 744.09448819 1052.3622047"
+   width="129.7697mm"
+   height="71.883644mm"
+   viewBox="0 0 459.81389 254.70582"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   shape-rendering="crispEdges"
-   enable-background="new"
-   sodipodi:docname="Escrito3d.svg">
+   sodipodi:docname="Escrito3d.svg"
+   style="enable-background:new"
+   inkscape:export-filename="/home/cassio/Documentos/FreeCad Exemplos/3dshop/Escrito3d.svg.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72">
   <defs
      id="defs4">
     <linearGradient
@@ -48,9 +50,9 @@
        xlink:href="#linearGradient4186"
        id="linearGradient4192"
        x1="-393.68042"
-       y1="-237.21453"
+       y1="-237.21452"
        x2="-21.313232"
-       y2="-237.21453"
+       y2="-237.21452"
        gradientUnits="userSpaceOnUse" />
     <filter
        inkscape:label="Drop Shadow"
@@ -60,7 +62,7 @@
        width="1.5"
        y="-0.25"
        x="-0.25"
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        id="filter4799">
       <feGaussianBlur
          stdDeviation="4"
@@ -91,9 +93,9 @@
          id="feComposite4809" />
       <feSpecularLighting
          specularExponent="10"
-         specularConstant="1.3"
+         specularConstant="1.29999995"
          surfaceScale="3"
-         lighting-color="rgb(255,255,255)"
+         lighting-color="#ffffff"
          result="result1"
          in="fbSourceGraphic"
          id="feSpecularLighting4811">
@@ -115,7 +117,9 @@
          result="result4"
          in="fbSourceGraphic"
          in2="result2"
-         id="feComposite4817" />
+         id="feComposite4817"
+         k1="0"
+         k4="0" />
       <feComposite
          operator="over"
          in="result4"
@@ -168,18 +172,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="-113.02345"
-     inkscape:cy="1282.6645"
+     inkscape:zoom="0.96676829"
+     inkscape:cx="103.51685"
+     inkscape:cy="128.1956"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     showborder="false"
+     showborder="true"
      inkscape:window-width="1366"
      inkscape:window-height="717"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="2"
+     fit-margin-left="2"
+     fit-margin-bottom="2"
+     fit-margin-right="2" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -196,18 +204,19 @@
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
      id="layer1"
-     style="filter:url(#filter3380)">
+     style="filter:url(#filter3380)"
+     transform="translate(437.40375,364.56745)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot3344"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion3346"><rect
            id="rect3348"
            width="191.42857"
            height="65.714287"
            x="-708.57141"
            y="198.07649" /></flowRegion><flowPara
-         id="flowPara3350"></flowPara></flowRoot>    <text
+         id="flowPara3350" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffc000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4799)"
        x="-411.13208"
@@ -218,26 +227,27 @@
          id="tspan3370"
          x="-411.13208"
          y="-141.63811"
-         style="stroke:#000000;stroke-opacity:1;fill:#ffc000;fill-opacity:1;"><tspan
-           style="-inkscape-font-specification:'Magneto, Bold Semi-Expanded';font-family:Magneto;font-weight:bold;font-style:normal;font-stretch:semi-expanded;font-variant:normal;font-size:285px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;stroke:#000000;stroke-opacity:1;fill:#ffc000;fill-opacity:1;"
+         style="fill:#ffc000;fill-opacity:1;stroke:#000000;stroke-opacity:1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-expanded;font-size:285px;line-height:125%;font-family:Magneto;-inkscape-font-specification:'Magneto, Bold Semi-Expanded';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffc000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
            id="tspan3374">3</tspan><tspan
-           style="-inkscape-font-specification:'Magneto, Bold Semi-Expanded';font-family:Magneto;font-weight:bold;font-style:normal;font-stretch:semi-expanded;font-variant:normal;font-size:225px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;stroke:#000000;stroke-opacity:1;fill:#ffc000;fill-opacity:1;"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-expanded;font-size:225px;line-height:125%;font-family:Magneto;-inkscape-font-specification:'Magneto, Bold Semi-Expanded';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffc000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
            id="tspan3384">D</tspan></tspan><tspan
          sodipodi:role="line"
          x="-411.13208"
-         y="-91.638107"
+         y="214.61189"
          id="tspan3372"
-         style="stroke:#000000;stroke-opacity:1;fill:#ffc000;fill-opacity:1;" /></text>
+         style="fill:#ffc000;fill-opacity:1;stroke:#000000;stroke-opacity:1" /></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:AnjaliOldLipi;-inkscape-font-specification:'AnjaliOldLipi, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-203.57143"
-       y="-314.78067"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:AnjaliOldLipi;-inkscape-font-specification:'AnjaliOldLipi, Italic';text-align:start;letter-spacing:0.01px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-188.71428"
+       y="-314.06638"
        id="text4414"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4416"
-         x="-203.57143"
-         y="-314.78067">shop.com.br</tspan></text>
+         x="-188.71428"
+         y="-314.06638"
+         style="letter-spacing:2px">shop.com.br</tspan></text>
   </g>
 </svg>

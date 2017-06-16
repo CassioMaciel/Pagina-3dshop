@@ -1,0 +1,62 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'TomsHandwritten';
+    src: url('../common-files/fonts/toms/280747_0_0.eot');
+    src: url('../common-files/fonts/toms/280747_0_0.eot') format('embedded-opentype'), url('../common-files/fonts/toms/280747_0_0.woff') format('woff'), url('../common-files/fonts/toms/280747_0_0.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Impact';
+    src: url('../common-files/fonts/IMPACT.TTF');
+}
+body {
+	background-color: rgba(0,136,204,0.3);
+}
+header#cabeçalho{
+	position: fixed;
+	top: 0px;
+	left: 0px ;
+	right: 0px;
+	border-bottom: 3px rgb(255,192,0) solid;
+	background-color: rgb(0,136,204);
+	
+}
+table#menu{
+	color: rgb(255,192,0);
+	/*font-family: TomsHandwritten;
+	font-size:33px;
+	font-weight:bold;*/
+	font-family: Impact;
+	font-size:25px;
+	position: absolute;
+	top: 45px;
+	left: 45% ;
+	text-shadow: 0px 0px 5px rgba(0,0,0,1);
+}
+
+/*#_3
+{
+    width:96px;
+	height:44px;
+	left:364px;
+	top:62px;
+	opacity:1;
+	margin-left:0px;
+	margin-top:0px;
+	margin-right:0px;
+	margin-bottom:0px;
+	background:rgba(0,0,0,0.01);
+	border-color:rgba(255,191,0,0.01);
+	border-style:solid;
+	border-width:1px;
+	text-align:center;
+	font-family:TomsHandwritten;
+	font-size:33px;
+	font-weight:bold;
+	color:rgba(255,191,0,1);
+	overflow:visible;
+	line-height:33px;
+	white-space:nowrap;
+	
+}*/
