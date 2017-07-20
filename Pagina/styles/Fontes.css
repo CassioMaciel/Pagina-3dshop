@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'TomsHandwritten';
+    src: url('../common-files/fonts/toms/280747_0_0.eot');
+    src: url('../common-files/fonts/toms/280747_0_0.eot') format('embedded-opentype'), url('../common-files/fonts/toms/280747_0_0.woff') format('woff'), url('../common-files/fonts/toms/280747_0_0.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Impact';
+    src: url('../common-files/fonts/IMPACT.TTF');
+}
